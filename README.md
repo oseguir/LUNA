@@ -9,3 +9,7 @@ Funciona mediante API pública
 //Capturas de pantalla
 https://ibb.co/Lg7pMrW
 https://ibb.co/Gv5jQzB
+
+
+//Fiablidad VirusTotal Scan
+https://www.virustotal.com/gui/file/caa54bcff97cddd822f6e88d0eab34a70a03129b9d5bbbb5e740209f0036c3b5/details
