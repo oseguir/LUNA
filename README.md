@@ -7,4 +7,5 @@ ChatBot AI LUNA, creado el 08/05/23 con su versión 1.0, actualmente cuenta con 
 Funciona mediante API pública 
 
 //Capturas de pantalla
+https://ibb.co/Lg7pMrW
 https://ibb.co/Gv5jQzB
